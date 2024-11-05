@@ -1,0 +1,11 @@
+nama = "Paturrahman"
+alamat = "santong"
+nim = "24241154"
+nimpertama = 24
+nimakhir = 54
+hasil = nimpertama + nimakhir
+
+print("nama saya adalah"+ nama)
+print("saya berasal dari"+ alamat)
+print("nim saya"+nim)
+print(f"hasil perjumlahan dari{nimpertama
